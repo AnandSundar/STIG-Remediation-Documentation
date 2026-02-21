@@ -10,7 +10,7 @@ This repository contains documented STIG remediations performed on a Microsoft W
 
 ## STIG Remediation Reports
 
-[1.) STIG: WN11-CC-000330 — WDigest Authentication must be disabled](./WN11-CC-000330-WDigest-Authentication.md)
+[1.) STIG: WN11-CC-000330 — WDigest Authentication must be disabled](./stig/WN11-CC-000330-WDigest-Authentication.md)
 
 [2.) STIG: WN11-00-000170 — The Server Message Block (SMB) v1 protocol must be disabled](./WN11-00-000170-SMBv1-Disabled.md)
 
